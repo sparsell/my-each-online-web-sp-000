@@ -9,7 +9,6 @@ def my_each(array)
   else
     "hey..."
   end
-
 end
 
 array = [1, 2, 3, 4]
